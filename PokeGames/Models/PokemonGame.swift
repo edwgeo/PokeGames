@@ -27,6 +27,8 @@ extension PokemonGame {
     [
         PokemonGame(title: "Pokemon Red", year: 1996, legendary: "Mew", generation: 1),
         PokemonGame(title: "Pokemon Green", year: 1996, legendary: "Mew", generation: 1),
-        PokemonGame(title: "Pokemon Blue", year: 1996, legendary: "Mew", generation: 1)
+        PokemonGame(title: "Pokemon Blue", year: 1996, legendary: "Mew", generation: 1),
+        PokemonGame(title: "Pokemon Gold", year: 1997, legendary: "Ho-oh", generation: 2),
+        PokemonGame(title: "Pokemon Silver", year: 1997, legendary: "Lugia", generation: 2),
     ]
 }

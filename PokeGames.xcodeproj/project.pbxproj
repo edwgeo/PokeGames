@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		546B8A7D2B8DB2E200419E29 /* PokemonGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546B8A7C2B8DB2E200419E29 /* PokemonGame.swift */; };
+		547CA21C2B99AD0F001E48EA /* PokemonListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547CA21B2B99AD0F001E48EA /* PokemonListView.swift */; };
 		54A5A2BB2B872B4800355FFF /* PokeGamesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5A2BA2B872B4800355FFF /* PokeGamesApp.swift */; };
 		54A5A2BD2B872B4800355FFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5A2BC2B872B4800355FFF /* ContentView.swift */; };
 		54A5A2BF2B872B4900355FFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54A5A2BE2B872B4900355FFF /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		546B8A7C2B8DB2E200419E29 /* PokemonGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonGame.swift; sourceTree = "<group>"; };
+		547CA21B2B99AD0F001E48EA /* PokemonListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonListView.swift; sourceTree = "<group>"; };
 		54A5A2B72B872B4800355FFF /* PokeGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54A5A2BA2B872B4800355FFF /* PokeGamesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeGamesApp.swift; sourceTree = "<group>"; };
 		54A5A2BC2B872B4800355FFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 			children = (
 				54A5A2C92B872C3E00355FFF /* GameListView.swift */,
 				54C2FC6B2B96AFCB00899F2C /* GameDetailView.swift */,
+				547CA21B2B99AD0F001E48EA /* PokemonListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				54A5A2CA2B872C3E00355FFF /* GameListView.swift in Sources */,
 				54A5A2BB2B872B4800355FFF /* PokeGamesApp.swift in Sources */,
 				54C2FC6C2B96AFCB00899F2C /* GameDetailView.swift in Sources */,
+				547CA21C2B99AD0F001E48EA /* PokemonListView.swift in Sources */,
 				546B8A7D2B8DB2E200419E29 /* PokemonGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
